@@ -1,6 +1,6 @@
 import os
 
-DOCS_DIR = "docs"
+DOCS_DIR = "pages"
 OUTPUT_FILE = os.path.abspath("index.html")
 
 files = []
